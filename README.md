@@ -1,9 +1,1 @@
--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&width=435&lines=I'm+Diwas+Shrestha.)](https://github.com/diwas777777)
--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&width=435&lines=%F0%9F%91%80+I%E2%80%99m+interested+in+Coding%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://github.com/diwas777777)
--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&width=435&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Python%F0%9F%90%8D)](https://github.com/diwas777777)
-
-
-<!---
-diwas777777/diwas777777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&width=435&height=100&lines=%F0%9F%91%8B+I'm+Diwas+Shrestha;%F0%9F%91%80+I%E2%80%99m+interested+in+Coding%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Python%F0%9F%90%8D)](https://github.com/diwas777777)
