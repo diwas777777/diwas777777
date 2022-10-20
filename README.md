@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diwas Shrestha</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diwas777777&label=Profile%20views&color=0e75b6&style=flat" alt="diwas777777" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=diwas777777&label=Profile%20views&color=0e75b6&style=flat" alt="diwas777777" /> </p>
 
 - 🔭 I’m currently working on [CodesHub](https://github.com/diwas777777/CodesHub)
 
