@@ -11,15 +11,9 @@
 
 - 🤝 I’m looking for help with [CodesHub-Games](https://github.com/diwas777777/CodesHub-Games/)
 
-- 👨‍💻 All of my projects are available at [https://portfolio.shresthadiwas.com.np/](https://portfolio.shresthadiwas.com.np/)
-
-- 📝 I regularly write articles on [https://www.diwas-stha.com.np/](https://www.diwas-stha.com.np/)
-
 - 💬 Ask me about **HTML, CSS, Python, PHP, SQL, C**
 
 - 📫 How to reach me **info@shresthadiwas.com.np**
-
-- 📄 Know about my experiences [https://portfolio.shresthadiwas.com.np/](https://portfolio.shresthadiwas.com.np/)
 
 - ⚡ Fun fact **I think I am funny**
 
